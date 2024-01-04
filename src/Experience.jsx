@@ -20,7 +20,7 @@ function Macbook(props) {
         position={[0, 1.56, -1.4]}
         rotation-x={-0.256}
       >
-        <iframe src="https://horuhe.dev" />
+        <iframe src="https://retro.horuhe.dev" />
       </Html>
     </primitive>
   );
